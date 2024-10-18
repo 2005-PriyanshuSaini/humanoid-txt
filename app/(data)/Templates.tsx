@@ -21,7 +21,7 @@ export default [
         ]
     },
     {
-        name: 'Blog Title',
+        name: 'Blog Content',
         desc: 'An AI tool that generate blog titles on your blog information',
         category: 'Blog',
         icon: 'https://cdn-icons-png.flaticon.com/128/4186/4186534.png',
@@ -42,7 +42,7 @@ export default [
         ]
     },
     {
-        name: 'Blog Title',
+        name: 'Blog Topic Ideas',
         desc: 'An AI tool that generate blog titles on your blog information',
         category: 'Blog',
         icon: 'https://cdn-icons-png.flaticon.com/128/4186/4186534.png',
